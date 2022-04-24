@@ -1,6 +1,6 @@
-package sample;
+package black_sec2;
 
-public class sample2_4 {
+public class sample2_04 {
 	
 	int a = 123_456_789;
 	int b = 5_______2;
